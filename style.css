@@ -1,0 +1,14 @@
+body{
+    background: rgb(2, 1, 68);
+    color: #fff;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#update{
+    display: none;
+}
